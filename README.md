@@ -53,11 +53,3 @@ Main features:
 Main features:
 - Enemy targeting
 - Collision detection
-
-### Map class
-- Uses a 2D array to represent terrain and enemy paths
-- Draws the game grid
-
-Main features:
-- Tile-based collision and placement validation
-- Creates path
